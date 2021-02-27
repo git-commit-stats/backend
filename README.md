@@ -1,2 +1,3 @@
 # backend
-The Python/Django GraphQL backend for git commit status
+
+The Python/Django GraphQL backend for git commit stats
